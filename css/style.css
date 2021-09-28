@@ -61,3 +61,8 @@ button{
 }.itemShop{
     font-style: italic;
 }
+.done{
+    text-decoration: line-through;
+    font-style: italic;
+    color: gray;
+}
